@@ -1,5 +1,8 @@
-## 10OCT25: Kickoff: Qiskit Advocate Study Group
+# 10OCT25: Kickoff: Qiskit Advocate Study Group
+## Recording Link:
 https://ibm-my.sharepoint.com/:v:/r/personal/muehge_de_ibm_com/Documents/Recordings/Kickoff%20Qiskit%20Advocate%20Study%20Group-20251010_150250-Meeting%20Recording.mp4?csf=1&web=1&e=dyJ0pE&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+# Summary:
 
 Here’s a summary of the **Kickoff Meeting for the Qiskit Advocate Study Group**, held on **October 10, 2025**, led by **Thorsten Muhge**, with contributions from **Jan-Rainer Lahmann**, **Wiktor Mazin**, and other participants:
 

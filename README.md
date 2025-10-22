@@ -7,3 +7,4 @@
 ## Qiskit Advocate Library: https://github.com/qiskit-advocate/qiskit-advocate-library/tree/main
 ## How to come to the next Advocate Level: https://github.com/qiskit-advocate/qiskit-advocate-library/blob/main/advocate-information/how-to-level-up.md
 ## Points Guide: https://github.com/qiskit-advocate/qiskit-advocate-library/blob/main/advocate-information/points_guide.md
+## Grokking the Bloch Sphere: https://javafxpert.github.io/grok-bloch/

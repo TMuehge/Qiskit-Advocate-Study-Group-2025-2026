@@ -12,4 +12,4 @@
 ## Grokking the Bloch Sphere: https://javafxpert.github.io/grok-bloch/
 ## IBM Quantum Cloud: https://quantum.cloud.ibm.com/
 ## Qiskit V2.X certification tutorial notebooks https://github.com/qiskit-advocate/qamp-2025/issues/42
-## https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial
+## Example tutorials for the exam: https://github.com/kibrahim757/qiskit_2x_certification_exam_tutorial
